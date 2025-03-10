@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ScarletMC](https://www.scarletmc.it/)
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Cyber Security** and **ICT**
 
 - 📫 How to reach me **vangelisti.t@gmail.com**
 
